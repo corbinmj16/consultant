@@ -1,0 +1,23 @@
+{
+  "name": "CraigFreelance",
+  "version": "1.0.0",
+  "description": "Craigs freelance website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbinmj16/craig.git"
+  },
+  "author": "Corbin Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbinmj16/craig/issues"
+  },
+  "homepage": "https://github.com/corbinmj16/craig#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
