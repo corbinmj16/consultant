@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
 @import 'base/index';
 @import 'components/index';
 
@@ -7,6 +8,20 @@ body {
     align-content: center;
     flex-direction: column;
     text-align: center;
+    background-color: rgba(40,40,40,0.8);
     width: 100vw;
     height: 100vh;
+    color: #fff;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+img {
+    display: block;
+    max-width: 250px;
+    border-radius: 100%;
+    margin: 0 auto;
 }
